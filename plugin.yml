@@ -1,0 +1,7 @@
+name: DrugWorkers
+main: me.zackpollard.drugworkers.DrugWorkers
+version: "0.1"
+commands:
+    worker:
+        description: DrugWorkers
+        usage: Drugworkers main commands.
